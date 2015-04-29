@@ -21,7 +21,7 @@
         <table width="900px">
             <tr>
                 <td align="center"  style="border-bottom:1px solid Black;">
-                    <b style='font-size:20px'>GENTLE PARK</b>
+                    <b style='font-size:20px'>Hostel Management Software</b>
                     <br />
                     334, Ferdousi Plaza, (4th Floor).<br />Elephant Road,
                     
