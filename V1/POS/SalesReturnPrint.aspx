@@ -24,7 +24,7 @@
         <table width="230px">
             <tr>
                 <td align="center" style="border-bottom: 1px solid Black;">
-                    <b style='font-size: 17px;Color:red;'>GENTLE PARK (Pvt.) Ltd</b>
+                    <b style='font-size: 17px;Color:red;'>Hostel Management Software (Pvt.) Ltd</b>
                     <br />
                     334, Ferdousi Plaza, (4th Floor).<br />
                     Elephant Road, Dhaka 1205,<br /> Tel: 02-9612452

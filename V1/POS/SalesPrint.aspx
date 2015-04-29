@@ -44,7 +44,7 @@
         <table width="230px">
             <tr>
                 <td align="center" style="border-bottom: 1px solid Black;">
-                    <b style='font-size: 17px;Color:red;'>GENTLE PARK</b>
+                    <b style='font-size: 17px;Color:red;'>Hostel Management Software</b>
                     <br />
                     <asp:Label ID="lblBranchLocation" runat="server" Text=""></asp:Label>
                     <%--334, Ferdousi Plaza, (4th Floor).<br />

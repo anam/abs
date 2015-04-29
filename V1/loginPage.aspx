@@ -12,7 +12,7 @@
     <div id="loginWrapper">
 		<div style="margin:auto;width:333px;">
             <h1>ERP Developers</h1>
-            <h2>Gentle Park</h2>
+            <h2>Hostel Management Software</h2>
             
             <div class="clear"></div>
         </div>

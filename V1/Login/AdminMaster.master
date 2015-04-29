@@ -6,7 +6,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Gentle Park</title>
+    <title>Hostel Management Software</title>
     <link href="../App_Themes/Default/styleWithAsrafviCodeGeneratedPage.css" rel="stylesheet" type="text/css" />
     <link href="../App_Themes/Default/styleFormArifvy.css" rel="stylesheet" type="text/css" />
     <link href="../App_Themes/Default/Menu.css" rel="stylesheet" type="text/css" />
@@ -64,7 +64,7 @@
   <div id="header">
     <h1>ERP Developers</h1>
     <div id="login">
-      <h2>Gentle Park</h2>
+      <h2>Hostel Management Software</h2>
       
       <p style="padding-top: 7px;color:White;font-weight:bold;">
       <a  href="~/Login/LoginCreateAfterLogin.aspx?loginID="  runat="server" id="a_loginName">

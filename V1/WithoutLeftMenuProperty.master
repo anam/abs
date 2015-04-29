@@ -35,7 +35,7 @@
   <div id="header">
     <h1>ERP Developers</h1>
     <div id="login">
-      <h2>Gentle Park</h2>
+      <h2>Hostel Management Software</h2>
       <br />
       <p>
       <asp:LoginView ID="MasterLogin" runat="server">
